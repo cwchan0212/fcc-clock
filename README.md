@@ -65,5 +65,5 @@
       create your own pen. Or you can use this CDN link to run the tests in any environment you like: <a href="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js">https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</a></p>
     <p align="justify"> Once you're done, submit the URL to your working project with all its tests passing.</p>
     <p><strong>Solution: </strong>
-    <a href="https://github.com/cwchan0212/fcc-clock">Source</a><strong>
-    <a href="https://github.com/cwchan0212/fcc-clock"> </a>/ </strong><a href="https://codepen.io/cwchan0212/pen/LYdPWbb"><strong>Demo@codepen</strong></a></p>
+    <a href="https://github.com/cwchan0212/fcc-clock">Source</a>
+    <a href="https://github.com/cwchan0212/fcc-clock"></a> | <a href="https://codepen.io/cwchan0212/pen/LYdPWbb">demo@codepen</a></p>
